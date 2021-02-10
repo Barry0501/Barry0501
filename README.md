@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tùng Đường</h1>
 <h3 align="center">A passionate Flutter frontend developer from Viet Nam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barry0501" alt="barry0501" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter, SEO, IOS**
 
 - 📝 I regularly write articles on [https://edu.200lab.io/bai-viet/](https://edu.200lab.io/bai-viet/)
