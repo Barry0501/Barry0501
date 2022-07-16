@@ -23,5 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barry0501&show_icons=true&locale=en" alt="barry0501" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barry0501&" alt="barry0501" /></p>
-
-<a href="https://app.daily.dev/tungduong015"><img src="https://api.daily.dev/devcards/1839701cba8d400ba45e6c4287b35ea5.png?r=3l6" width="400" alt="Tung Duong's Dev Card"/></a>
