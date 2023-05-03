@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, SEO, IOS**
 
-- 📝 I regularly write articles on [https://edu.200lab.io/bai-viet/](https://edu.200lab.io/bai-viet/)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **flutter**
 
