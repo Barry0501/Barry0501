@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tùng Đường</h1>
+<h1 align="center">Hi 👋, I'm Tung Duong</h1>
 <h3 align="center">A passionate Flutter frontend developer from Viet Nam</h3>
 
-- 🌱 I’m currently learning **Flutter, SEO, IOS**
+- 🌱 I’m currently learning **Flutter, iOS, Nextjs, React**
 
-- 📝 I regularly write articles on 
-
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **Flutter,iOS, Nextjs, React**
 
 - 📫 How to reach me **laptung051@gmail.com**
 
